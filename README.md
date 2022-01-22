@@ -67,14 +67,20 @@
 
 <p dir="auto"><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> &nbsp;<strong>Connect with me</strong></p>
 
-<p align="left" dir="auto">
-<a href="https://devthomas.pl" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" alt="DevThomas" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" style="max-width: 100%;"></a>
+<p>
 
+<span>
+<a href="https://devthomas.pl" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" alt="DevThomas" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" style="max-width: 100%;"></a>
+</span>
 <a href="https://www.linkedin.com/in/tomasz-stanisz-85818683" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" style="max-width: 100%;"></a>
 
+<span>
 <a href="mailto:thomas.dev666@gmail.com" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="4214976" height="30" width="40" style="max-width: 100%;"></a>
+</span>
 
+<span>
 <a href="https://www.instagram.com/fremen1990" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" style="max-width: 100%;"></a>
+</span>
 
 </p>
 
@@ -96,11 +102,8 @@
 ![DevThomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fremen1990&theme=dark&show_icons=true)
 
 <br>
-<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fremen1990)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fremen1990)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fremen1990&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--------------------------------- TROPHIES ------------------ -->
 
