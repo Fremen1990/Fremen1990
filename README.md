@@ -98,7 +98,7 @@
 
 <!--------------------------------- TROPHIES ------------------ -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fremen1990&title=Multilanguage,Commits,Repositories&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fremen1990&title=MultiLanguage,Commits,Repositories&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15 -->
 
