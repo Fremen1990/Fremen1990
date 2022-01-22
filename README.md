@@ -84,7 +84,9 @@
 <br>
 <br>
 
-<img src="https://wakatime.com/share/@6aba690e-50f2-4ea4-84a6-3b2326a187cb/bcf3508d-c903-4cf3-93b4-c999d0b5c30c.svg" heigh="50%"/>
+<!-- WAKA TIME  - LANGUAGES ALL TIME -->
+
+<img src="https://wakatime.com/share/@6aba690e-50f2-4ea4-84a6-3b2326a187cb/359b90f9-1190-40e1-ad86-3326d045d81a.svg" style="max-heigh=450px"/>
 
 <br>
 
