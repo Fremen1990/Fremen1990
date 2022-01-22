@@ -96,6 +96,10 @@
 
 <img src="https://camo.githubusercontent.com/115260e7df0fdeadfc7c745a3af4d43145d81473908055eb470614acda37c323/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d61656d6d61646926686964653d546558266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&amp;hide=TeX&amp;layout=compact" style="max-width: 100%;">
 
+<!--------------------------------- TROPHIES ------------------ -->
+
+[![trophy](https://github-profile-trophy.vercel.app/fremen1990=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!---
 Fremen1990/Fremen1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
