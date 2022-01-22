@@ -1,4 +1,4 @@
-<img src="https://github.com/Fremen1990/Fremen1990/blob/main/main/header.PNG" alt="DevThomas header" style="max-width: 100%;">
+<img link="https://www.devthomas.pl" src="https://github.com/Fremen1990/Fremen1990/blob/main/main/header.PNG" alt="DevThomas header" style="max-width: 100%;">
 
 # Hello Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -27,8 +27,6 @@
 <!--------------  LANGUAGES AND TOOL ----------------->
 
 <summary><b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji>&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-
-<br>
 
 <br>
 
@@ -61,7 +59,6 @@
 </p>
 
 <br>
-<br>
 
 <!-- -------------------  CONTACT badges --------------------------- -->
 
@@ -87,7 +84,17 @@
 <br>
 <br>
 
-<!-- WAKA TIME  - LANGUAGES ALL TIME -->
+<br>
+
+<!------------------ GITHUB-README-STATS ------------------------>
+
+![DevThomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fremen1990&theme=dark&show_icons=true)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fremen1990&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!------------------------ WAKA TIME  - LANGUAGES ALL TIME -------------->
 
 <p><details> Using languages details: </p>
 
@@ -96,15 +103,6 @@
 </details>
 
 <br>
-
-<!------------------GITHUB-README-STATS -->
-
-![DevThomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fremen1990&theme=dark&show_icons=true)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fremen1990&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--------------------------------- TROPHIES ------------------ -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fremen1990&title=MultiLanguage,Commits,Repositories&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
