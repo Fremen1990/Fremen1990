@@ -14,7 +14,11 @@
 
  <!--------------  DOG GIF ----------------->
 
+<p>
 - ⚡ Fun fact: I ❤️ 🐶s, have 3x🐺 <img src="https://c.tenor.com/Llg7JPMnyaUAAAAC/dog-smile.gif" width="200" height="150px" alt="Dog Smile GIF - Dog Smile Beanie GIFs" style="max-width: 200px;">
+</p>
+
+<br>
 
 <!--------------  LANGUAGES AND TOOL ----------------->
 
@@ -76,9 +80,7 @@
 <br>
 <br>
 
-<!-- <img src="https://wakatime.com/share/@6aba690e-50f2-4ea4-84a6-3b2326a187cb/bcf3508d-c903-4cf3-93b4-c999d0b5c30c.svg"/> -->
-
-<figure><embed src="https://wakatime.com/share/@6aba690e-50f2-4ea4-84a6-3b2326a187cb/bcf3508d-c903-4cf3-93b4-c999d0b5c30c.svg"></embed></figure>
+<img src="https://wakatime.com/share/@6aba690e-50f2-4ea4-84a6-3b2326a187cb/bcf3508d-c903-4cf3-93b4-c999d0b5c30c.svg" heigh="50%"/>
 
 <br>
 
