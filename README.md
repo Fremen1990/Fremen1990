@@ -15,7 +15,11 @@
  <!--------------  DOG GIF ----------------->
 
 <div style="display:flex; align-items:center; justify-content:center;">
-- ⚡ Fun fact: I ❤️ 🐶s, have 3x🐺 <img src="https://c.tenor.com/Llg7JPMnyaUAAAAC/dog-smile.gif" width="200" height="150px" alt="Dog Smile GIF - Dog Smile Beanie GIFs" style="max-width: 200px;">
+
+<p  style="display: inline-block;">
+- ⚡ Fun fact: I ❤️ 🐶s, have 3x🐺 
+</p>
+<img src="https://c.tenor.com/Llg7JPMnyaUAAAAC/dog-smile.gif" width="200" height="150px" alt="Dog Smile GIF - Dog Smile Beanie GIFs" style="max-width: 200px;">
 </div>
 
 <br>
