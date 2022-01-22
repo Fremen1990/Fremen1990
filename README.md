@@ -1,4 +1,7 @@
-- 👋 Hi, DevThomas! 
+# Hello Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
+- 😉 My name is Thomas, DevThomas! 
 
 - 👀 I’m interested in JavaScript and all connected to JS technologies like React, Node and Phaser as well.
 
