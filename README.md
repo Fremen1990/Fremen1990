@@ -52,6 +52,9 @@
 
 </p>
 
+<br>
+<br>
+
 <!-- -------------------  CONTACT badges --------------------------- -->
 
 <p dir="autp>
@@ -68,14 +71,22 @@
 <!-- INSTAGRAM -->
 <img src="https://camo.githubusercontent.com/d84c87b1b4e92d8daf81826883a75898c76662b5f7225a0994460248ec108021/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6b616e6e61363530312d707572706c653f7374796c653d666c61742d737175617265266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f696e7374616772616d2e636f6d2f6b616e6e61363530312f" alt="Instagram Badge" data-canonical-src="https://img.shields.io/badge/-kanna6501-purple?style=flat-square&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/fremen1990/" style="max-width: 100%;">
 
-<img src="https://wakatime.com/share/@6aba690e-50f2-4ea4-84a6-3b2326a187cb/bcf3508d-c903-4cf3-93b4-c999d0b5c30c.svg"/>
+</p>
+
+<br>
+<br>
+
+<!-- <img src="https://wakatime.com/share/@6aba690e-50f2-4ea4-84a6-3b2326a187cb/bcf3508d-c903-4cf3-93b4-c999d0b5c30c.svg"/> -->
+
+<figure><embed src="https://wakatime.com/share/@6aba690e-50f2-4ea4-84a6-3b2326a187cb/bcf3508d-c903-4cf3-93b4-c999d0b5c30c.svg"></embed></figure>
+
+<br>
 
 <img src="https://camo.githubusercontent.com/9b69ec837bfae5bc36a6c54c36be2b9a52c8ad959af71e1b26832ca1adb4567e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d61656d6d61646926636f756e745f707269766174653d747275652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565" alt="Github Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=aemmadi&amp;count_private=true&amp;show_icons=true&amp;include_all_commits=true" style="max-width: 100%;">
 
-<img src="https://camo.githubusercontent.com/115260e7df0fdeadfc7c745a3af4d43145d81473908055eb470614acda37c323/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d61656d6d61646926686964653d546558266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&amp;hide=TeX&amp;layout=compact" style="max-width: 100%;">
+<br>
 
-</p>
-<!-- <figure><embed src="https://wakatime.com/share/@6aba690e-50f2-4ea4-84a6-3b2326a187cb/bcf3508d-c903-4cf3-93b4-c999d0b5c30c.svg"></embed></figure> -->
+<img src="https://camo.githubusercontent.com/115260e7df0fdeadfc7c745a3af4d43145d81473908055eb470614acda37c323/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d61656d6d61646926686964653d546558266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&amp;hide=TeX&amp;layout=compact" style="max-width: 100%;">
 
 <!---
 Fremen1990/Fremen1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
