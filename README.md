@@ -65,6 +65,8 @@
 
 <!-- -------------------  CONTACT badges --------------------------- -->
 
+<p dir="auto"><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> &nbsp;<strong>Connect with me</strong></p>
+
 <p align="left" dir="auto">
 <a href="https://devthomas.pl" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" alt="DevThomas" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" style="max-width: 100%;"></a>
 
@@ -81,7 +83,7 @@
 
 <!-- WAKA TIME  - LANGUAGES ALL TIME -->
 
-<details>
+<p><details> Using languages details: </p>
 
 <img src="https://wakatime.com/share/@6aba690e-50f2-4ea4-84a6-3b2326a187cb/359b90f9-1190-40e1-ad86-3326d045d81a.svg" style="max-heigh=450px"/>
 
@@ -89,11 +91,16 @@
 
 <br>
 
-<img src="https://camo.githubusercontent.com/9b69ec837bfae5bc36a6c54c36be2b9a52c8ad959af71e1b26832ca1adb4567e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d61656d6d61646926636f756e745f707269766174653d747275652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565" alt="Github Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=aemmadi&amp;count_private=true&amp;show_icons=true&amp;include_all_commits=true" style="max-width: 100%;">
+<!------------------GITHUB-README-STATS -->
+
+![DevThomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fremen1990&theme=dark&show_icons=true)
 
 <br>
+<br>
 
-<img src="https://camo.githubusercontent.com/115260e7df0fdeadfc7c745a3af4d43145d81473908055eb470614acda37c323/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d61656d6d61646926686964653d546558266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&amp;hide=TeX&amp;layout=compact" style="max-width: 100%;">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fremen1990)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fremen1990)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--------------------------------- TROPHIES ------------------ -->
 
