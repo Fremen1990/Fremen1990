@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: I ❤️ 🐶s, have 3x🐺
 
-<img src="https://c.tenor.com/Llg7JPMnyaUAAAAC/dog-smile.gif" width="200" height="1042.2964824120604" alt="Dog Smile GIF - Dog Smile Beanie GIFs" style="max-width: 200px;">
+<img src="https://c.tenor.com/Llg7JPMnyaUAAAAC/dog-smile.gif" width="200" height="150px" alt="Dog Smile GIF - Dog Smile Beanie GIFs" style="max-width: 200px;">
 
 <!---
 Fremen1990/Fremen1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
