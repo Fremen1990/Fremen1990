@@ -65,19 +65,14 @@
 
 <!-- -------------------  CONTACT badges --------------------------- -->
 
-<p dir="autp>
+<p align="left" dir="auto">
+<a href="https://devthomas.pl" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" alt="DevThomas" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" style="max-width: 100%;"></a>
 
-<!-- GMAIL  -->
-<img src="https://camo.githubusercontent.com/3e95855e76da4c677487a7ab75f66c1200d1ac8a216399095c5ba79323d735d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6b616e6e613635303140676d61696c2e636f6d2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6b616e6e613635303140676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:thomas.dev666@gmail.com" style="max-width: 100%;">
+<a href="https://www.linkedin.com/in/tomasz-stanisz-85818683" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" style="max-width: 100%;"></a>
 
-<!-- EMAIL -->
-<img src="https://camo.githubusercontent.com/d36fc2af693188c10c058653f781de137a5991c415a57bf129a4015157cecede/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4061656d6d6164692d3033613537613f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d303030303030266c6f676f3d4d656469756d266c696e6b3d68747470733a2f2f6d656469756d2e636f6d2f4061656d6d6164692f" alt="Medium Badge" data-canonical-src="https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&amp;labelColor=000000&amp;logo=Medium&amp;link=https://devtyhomas.pl" style="max-width: 100%;">
+<a href="mailto:thomas.dev666@gmail.com" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="4214976" height="30" width="40" style="max-width: 100%;"></a>
 
-<!--  LINKEDIN -->
-<img src="https://camo.githubusercontent.com/1204decb3ec6e14e461f7738519cfd00508f88d25133692c28fb10ffd612e807/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d616e6972756468656d6d6164692d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616e6972756468656d6d6164692f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/tomasz-stanisz-85818683/" style="max-width: 100%;">
-
-<!-- INSTAGRAM -->
-<img src="https://camo.githubusercontent.com/d84c87b1b4e92d8daf81826883a75898c76662b5f7225a0994460248ec108021/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6b616e6e61363530312d707572706c653f7374796c653d666c61742d737175617265266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f696e7374616772616d2e636f6d2f6b616e6e61363530312f" alt="Instagram Badge" data-canonical-src="https://img.shields.io/badge/-kanna6501-purple?style=flat-square&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/fremen1990/" style="max-width: 100%;">
+<a href="https://www.instagram.com/fremen1990" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" style="max-width: 100%;"></a>
 
 </p>
 
@@ -86,7 +81,11 @@
 
 <!-- WAKA TIME  - LANGUAGES ALL TIME -->
 
+<details>
+
 <img src="https://wakatime.com/share/@6aba690e-50f2-4ea4-84a6-3b2326a187cb/359b90f9-1190-40e1-ad86-3326d045d81a.svg" style="max-heigh=450px"/>
+
+</details>
 
 <br>
 
