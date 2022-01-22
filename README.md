@@ -98,7 +98,9 @@
 
 <!--------------------------------- TROPHIES ------------------ -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fremen1990&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fremen1990&rank=S&rank=A&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15 -->
 
 <!---
 Fremen1990/Fremen1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
