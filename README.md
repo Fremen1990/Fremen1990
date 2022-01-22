@@ -52,7 +52,9 @@
 
 </p>
 
-<!-- -------------------  CONTAct badges --------------------------- -->
+<!-- -------------------  CONTACT badges --------------------------- -->
+
+<p dir="autp>
 
 <!-- GMAIL  -->
 <img src="https://camo.githubusercontent.com/3e95855e76da4c677487a7ab75f66c1200d1ac8a216399095c5ba79323d735d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6b616e6e613635303140676d61696c2e636f6d2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6b616e6e613635303140676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:thomas.dev666@gmail.com" style="max-width: 100%;">
@@ -72,6 +74,7 @@
 
 <img src="https://camo.githubusercontent.com/115260e7df0fdeadfc7c745a3af4d43145d81473908055eb470614acda37c323/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d61656d6d61646926686964653d546558266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&amp;hide=TeX&amp;layout=compact" style="max-width: 100%;">
 
+</p>
 <!-- <figure><embed src="https://wakatime.com/share/@6aba690e-50f2-4ea4-84a6-3b2326a187cb/bcf3508d-c903-4cf3-93b4-c999d0b5c30c.svg"></embed></figure> -->
 
 <!---
