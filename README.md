@@ -101,14 +101,14 @@
 
 <!------------------------ WAKA TIME  - LANGUAGES ALL TIME -------------->
 
-<span>Details from WAKA TIME:
-
-<!-- <details>   -->
+<p>Details from WAKA TIME:
+<details>  
 <img src="https://wakatime.com/share/@6aba690e-50f2-4ea4-84a6-3b2326a187cb/359b90f9-1190-40e1-ad86-3326d045d81a.svg" style="max-heigh=450px"/>
+</details>
+</p>
 
-<!-- </details> -->
-</span>
 <br>
+
 <!--------------------------------- TROPHIES ------------------ -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fremen1990&title=MultiLanguage,Commits,Repositories&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
