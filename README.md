@@ -101,10 +101,12 @@
 
 <!------------------------ WAKA TIME  - LANGUAGES ALL TIME -------------->
 
-<span>Details from WAKA TIME: <details>  
+<span>Details from WAKA TIME:
+
+<!-- <details>   -->
 <img src="https://wakatime.com/share/@6aba690e-50f2-4ea4-84a6-3b2326a187cb/359b90f9-1190-40e1-ad86-3326d045d81a.svg" style="max-heigh=450px"/>
 
-</details>
+<!-- </details> -->
 </span>
 <br>
 <!--------------------------------- TROPHIES ------------------ -->
