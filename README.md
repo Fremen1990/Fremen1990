@@ -1,4 +1,4 @@
-<img link="https://www.devthomas.pl" src="https://github.com/Fremen1990/Fremen1990/blob/main/main/header.PNG" alt="DevThomas header" style="max-width: 100%;">
+[<img link="https://www.devthomas.pl" src="https://github.com/Fremen1990/Fremen1990/blob/main/main/header-gif.gif" alt="DevThomas header" style="max-width: 100%;">](https://www.devthomas.pl)
 
 # Hello Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
