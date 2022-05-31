@@ -4,9 +4,9 @@
 
 - 😉 My name is Tomasz, DevThomas!
 
-- 👀 I’m interested in JavaScript and all connected to JS technologies like React, Node and Phaser as well.
+- 👀 I’m interested in JavaScript and all connected to JS technologies like React-> NextJS, NodeJS -> NestJS and all related small libraries as well.
 
-- 🌱 I’m currently learning Advanced NODE JS and backend
+- 🌱 I’m currently learning NestJS on MEGAK Full Stack JavaScript Bootcamp.
 
 - 🔨 For some details please go to my page: www.devthomas.pl
 
@@ -17,7 +17,7 @@
 <div style="display:flex; align-items:center; justify-content:center;">
 
 <p  style="display: inline-block;">
-- ⚡ Fun fact: I ❤️ 🐶s, have 3x🐺 
+- ⚡ Fun fact: I ❤️ 🐶
 </p>
 <img src="https://c.tenor.com/Llg7JPMnyaUAAAAC/dog-smile.gif" width="200" height="150px" alt="Dog Smile GIF - Dog Smile Beanie GIFs" style="max-width: 200px;">
 </div>
