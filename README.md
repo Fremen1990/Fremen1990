@@ -8,11 +8,13 @@
 
 - 👀 I’m interested in JavaScript and all connected to JS technologies like React-> NextJS, NodeJS -> NestJS and all related small libraries as well.
 
-- 🌱 I’m currently learning NestJS on MEGAK Full Stack JavaScript Bootcamp.
+- 🌱 I’m currently mastering React with TypeScript on as my daily job 
 
-- 🔨 For some details please go to my page: www.devthomas.pl
+- I've been doing project un NestJS which I fall in love on MEGAK Full Stack JavaScript Bootcamp.
 
-- 📫 How to reach me: tomasz.dev666@gmail.com or tomasz.stanisz@devthomas.pl
+- 🔨 For some details please go to my page: [www.devthomas.pl](https://devthomas.pl/)
+
+- 📫 How to reach me: tomasz.dev666@gmail.com
 
  <!--------------  DOG GIF ----------------->
 
