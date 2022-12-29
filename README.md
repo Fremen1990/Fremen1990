@@ -1,4 +1,4 @@
-[<img link="https://www.devthomas.pl" src="https://github.com/Fremen1990/Fremen1990/blob/main/main/header-gif.gif" alt="DevThomas header" style="max-width: 100%;">](https://www.devthomas.pl)
+[<img link="https://www.devthomas.pl" src="https://github.com/Fremen1990/Fremen1990/blob/main/main/header-gif.gif" alt="DevThomas header" style="width: 100%;">](https://www.devthomas.pl)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tomasz Stanisz
@@ -15,14 +15,14 @@ IT lover, interested in JavaScript and all connected to JavaScript and TypeScrip
 * 🌱  I’m currently mastering React with TypeScript on as my daily job with all related advanced topics 
 * 🧠  Next i'm focusing on NextJS 😄  and React-Native 📱
 * 🤝  I'm open to collaborating on Raect TypeScript and Full Stack projects based on Node/NestJS
-
+* ⚡ Fun fact: I ❤️ 🐶 - hardcore ones 🤪 
 
  <!--------------  DOG GIF ----------------->
 
 <div style="display:flex; align-items:center; justify-content:center;">
 
 <p  style="display: inline-block;">
-*⚡ Fun fact: I ❤️ 🐶
+
 </p>
 <img src="https://c.tenor.com/Llg7JPMnyaUAAAAC/dog-smile.gif" width="200" height="150px" alt="Dog Smile GIF - Dog Smile Beanie GIFs" style="max-width: 200px;">
 </div>
@@ -61,6 +61,9 @@ IT lover, interested in JavaScript and all connected to JavaScript and TypeScrip
 
 <b>My GitHub Stats</b>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fremen1990&title=MultiLanguage,Commits,Repositories&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="http://www.github.com/fremen1990"><img src="https://github-readme-stats.vercel.app/api?username=fremen1990&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="fremen1990's GitHub stats" /></a>
 
 <a href="http://www.github.com/fremen1990"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fremen1990&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
@@ -74,7 +77,6 @@ IT lover, interested in JavaScript and all connected to JavaScript and TypeScrip
 
 <!--------------------------------- TROPHIES ------------------ -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fremen1990&title=MultiLanguage,Commits,Repositories&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15 -->
 
