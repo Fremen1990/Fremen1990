@@ -4,7 +4,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tomasz Stanisz
 ======================================================================================================================================
 
-JavaScript Developer (React | TypeScript | NodeJS)
+JavaScript Developer (React | NextJS | TypeScript | NodeJS | NestJS)
 --------------------------------------------------
 
 IT lover, interested in JavaScript and all connected to JavaScript and TypeScript technologies like React-> NextJS, NodeJS -> NestJS and all related libraries and frameworks 😉
