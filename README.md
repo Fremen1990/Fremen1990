@@ -31,12 +31,12 @@ IT lover, interested in JavaScript and all connected to JavaScript and TypeScrip
 
 ### Portfolio
 
-![qr-code_devthomas-portfolio](https://github.com/user-attachments/assets/5a8d8b14-2ce7-4ecd-8eca-2dcc6681aa8e)
+<img src="https://github.com/user-attachments/assets/5a8d8b14-2ce7-4ecd-8eca-2dcc6681aa8e" width="150" />
 
 
 ### CV
 
-![qr-code_devthomas-cv](https://github.com/user-attachments/assets/edfc475b-8318-49c0-96a5-b82d7f853b08)
+<img src="https://github.com/user-attachments/assets/edfc475b-8318-49c0-96a5-b82d7f853b08" width="150" />
 
 
 
