@@ -4,7 +4,8 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tomasz Stanisz
 
 <p align="left">
-  <img src="https://github.com/Fremen1990/Fremen1990/raw/main/main/avatar.png" width="120" height="120" alt="Tomasz Stanisz" />
+<img src="https://devthomas.pl/portrait.jpg" width="120" height="120" alt="Tomasz Stanisz" />
+
 </p>
 
 **Software Engineer & Tech Lead** (React | TypeScript | Next.js | NestJS)
