@@ -1,21 +1,27 @@
-[<img link="https://www.devthomas.pl" src="https://github.com/Fremen1990/Fremen1990/blob/main/main/header-gif.gif" alt="DevThomas header" style="width: 100%;">](https://www.devthomas.pl)
+[<img src="https://github.com/Fremen1990/Fremen1990/raw/main/main/header-gif.gif" alt="DevThomas header" width="100%">](https://devthomas.pl/)
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tomasz Stanisz
-======================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tomasz Stanisz
 
-JavaScript Developer (React | NextJS | TypeScript | NodeJS | NestJS)
+<p align="left">
+  <img src="https://github.com/Fremen1990/Fremen1990/raw/main/main/avatar.png" width="120" height="120" alt="Tomasz Stanisz" />
+</p>
+
+**Software Engineer & Tech Lead** (React | TypeScript | Next.js | NestJS)
 --------------------------------------------------
 
-IT lover, interested in JavaScript and all connected to JavaScript and TypeScript technologies like React-> NextJS, NodeJS -> NestJS and all related libraries and frameworks 😉
+I design and build web and mobile applications, combining hands-on engineering with architecture, testing and technical guidance 😉
 
-* 🌍  I'm based in Warsaw
-* 🖥️  See my portfolio at [DevThomas](http://devthomas.pl)
-* ✉️  You can contact me at [thomas.dev666@gmail.com](mailto:thomas.dev666@gmail.com)
-* 🌱  I’m currently mastering React with TypeScript on as my daily job with all related advanced topics 
-* 🧠  Next i'm focusing on NextJS 😄  and React-Native 📱
-* 🤝  I'm open to collaborating on Raect TypeScript and Full Stack projects based on Node/NestJS
-* ⚡ Fun fact: I ❤️ 🐶 - hardcore ones 🤪 
+* 🌍 I'm based in Poland — open to remote roles with regular US-hours overlap
+* 🖥️ See my portfolio at [DevThomas](https://devthomas.pl/)
+* 📄 Interactive CV: [cv.devthomas.pl](https://cv.devthomas.pl/)
+* ✉️ You can contact me at [thomas.dev666@gmail.com](mailto:thomas.dev666@gmail.com)
+* 🧭 Frontend architecture & mentoring at **Orange Polska** (CMS + Cypress E2E)
+* 🚀 Concurrent Tech Lead at **TheEventa** — Next.js / NestJS MVP v1 under development
+* 👥 I lead **ATOM** (Akademia Tworzenia Oprogramowania) — a programming community with 900 members
+* 📈 Earlier finance & accounting at Accenture, Marsh McLennan, AkzoNobel and Tate & Lyle
+* 🤝 Open to collaborating on React, TypeScript and full-stack Node/NestJS projects
+* ⚡ Fun fact: I ❤️ 🐶 - hardcore ones 🤪
 
  <!--------------  DOG GIF ----------------->
 
@@ -31,12 +37,16 @@ IT lover, interested in JavaScript and all connected to JavaScript and TypeScrip
 
 ### Portfolio
 
-<img src="https://github.com/user-attachments/assets/5a8d8b14-2ce7-4ecd-8eca-2dcc6681aa8e" width="150" />
+[<img src="https://github.com/user-attachments/assets/5a8d8b14-2ce7-4ecd-8eca-2dcc6681aa8e" width="150" alt="Portfolio" />](https://devthomas.pl/)
+
+[devthomas.pl](https://devthomas.pl/) · [GitHub repo](https://github.com/Fremen1990/react-portfolio-devthomas)
 
 
 ### CV
 
-<img src="https://github.com/user-attachments/assets/edfc475b-8318-49c0-96a5-b82d7f853b08" width="150" />
+[<img src="https://github.com/user-attachments/assets/edfc475b-8318-49c0-96a5-b82d7f853b08" width="150" alt="CV" />](https://cv.devthomas.pl/)
+
+[cv.devthomas.pl](https://cv.devthomas.pl/) · [GitHub repo](https://github.com/Fremen1990/responsive-resume-CV)
 
 
 
@@ -67,7 +77,7 @@ IT lover, interested in JavaScript and all connected to JavaScript and TypeScrip
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/fremen1990" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tomasz-stanisz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://github.com/Fremen1990" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/tomasz-stanisz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a> <a href="https://devthomas.pl/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/link.svg" width="32" height="32" alt="Portfolio" /></a></p>
 
 ### Badges
 
@@ -76,11 +86,11 @@ IT lover, interested in JavaScript and all connected to JavaScript and TypeScrip
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fremen1990&title=MultiLanguage,Commits,Repositories&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="http://www.github.com/fremen1990"><img src="https://github-readme-stats.vercel.app/api?username=fremen1990&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="fremen1990's GitHub stats" /></a>
+<a href="https://github.com/Fremen1990"><img src="https://github-readme-stats.vercel.app/api?username=fremen1990&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="fremen1990's GitHub stats" /></a>
 
-<a href="http://www.github.com/fremen1990"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fremen1990&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Fremen1990"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fremen1990&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak" /></a>
 
-<a href="http://www.github.com/fremen1990"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=fremen1990&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/Fremen1990"><img src="https://github-readme-activity-graph.vercel.app/graph?username=fremen1990&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
